@@ -5,7 +5,7 @@
 The AI Study & Developer Assistant for Students is a web-based educational platform that leverages Large Language Models (LLMs) to provide personalized learning assistance. The system follows a modular, scalable architecture using Node.js backend services, MongoDB for data persistence, and a responsive web frontend. The platform integrates with external LLM APIs to deliver AI-powered features including concept explanation, content summarization, quiz generation, and code analysis.
 
 The design emphasizes simplicity, scalability, and educational effectiveness, targeting college students and beginner programmers who need accessible technical learning support.
-
+  
 ## Architecture
 
 ### High-Level Architecture
@@ -827,4 +827,5 @@ describe('AI Content Generation Quality', () => {
 - All tests must pass before code merge
 - Performance tests must meet response time requirements
 - Security tests must pass vulnerability scans
+
 - Property tests must complete successfully with no failures
